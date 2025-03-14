@@ -11,6 +11,6 @@ Aqui, você pode listar as principais funcionalidades do seu projeto:
 ```markdown
 ## 🎯 Funcionalidades
 
-- **Adicionar Tarefas**: Permite adicionar novas tarefas à lista.
-- **Marcar Tarefa como Concluída**: Você pode marcar tarefas como feitas, que mudarão de cor.
-- **Limpar Tarefas Completadas**: Permite remover as tarefas que já foram marcadas como concluídas.
+- Adicionar Tarefas**: Permite adicionar novas tarefas à lista.
+- Marcar Tarefa como Concluída**: Você pode marcar tarefas como feitas, que mudarão de cor.
+- Limpar Tarefas Completadas**: Permite remover as tarefas que já foram marcadas como concluídas.
