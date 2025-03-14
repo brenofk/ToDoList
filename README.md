@@ -1,2 +1,2 @@
 # ToDoList
-Praticando Java com OO e herança
+Praticando Java, OO e herança
